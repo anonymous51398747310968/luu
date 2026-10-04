@@ -1,0 +1,1438 @@
+{
+  "version": 1,
+  "characters": {
+    "lou": {
+      "n": "assets/characters/lou-n.webp",
+      "h": "assets/characters/lou-h.webp",
+      "c": "assets/characters/lou-c.webp",
+      "a": "assets/characters/lou-a.webp",
+      "o": "assets/characters/lou-o.webp",
+      "s": "assets/characters/lou-s.webp",
+      "z": "assets/characters/lou-z.webp",
+      "x": "assets/characters/lou-x.webp"
+    },
+    "choco": {
+      "n": "assets/characters/choco-n.webp",
+      "h": "assets/characters/choco-h.webp",
+      "c": "assets/characters/choco-c.webp",
+      "a": "assets/characters/choco-a.webp",
+      "o": "assets/characters/choco-o.webp",
+      "s": "assets/characters/choco-s.webp",
+      "z": "assets/characters/choco-z.webp",
+      "x": "assets/characters/choco-x.webp"
+    },
+    "mashu": {
+      "n": "assets/characters/mashu-n.webp",
+      "h": "assets/characters/mashu-h.webp",
+      "c": "assets/characters/mashu-c.webp",
+      "a": "assets/characters/mashu-a.webp",
+      "o": "assets/characters/mashu-o.webp",
+      "s": "assets/characters/mashu-s.webp",
+      "z": "assets/characters/mashu-z.webp",
+      "x": "assets/characters/mashu-x.webp"
+    },
+    "mina": {
+      "n": "assets/characters/mina-n.webp",
+      "h": "assets/characters/mina-h.webp",
+      "c": "assets/characters/mina-c.webp",
+      "a": "assets/characters/mina-a.webp",
+      "o": "assets/characters/mina-o.webp",
+      "x": "assets/characters/mina-x.webp",
+      "s": "assets/characters/mina-s.webp"
+    },
+    "stella": {
+      "n": "assets/characters/stella-n.webp",
+      "h": "assets/characters/stella-h.webp",
+      "c": "assets/characters/stella-c.webp",
+      "a": "assets/characters/stella-a.webp",
+      "o": "assets/characters/stella-o.webp",
+      "z": "assets/characters/stella-z.webp"
+    },
+    "lily": {
+      "n": "assets/characters/lily-n.webp",
+      "h": "assets/characters/lily-h.webp",
+      "c": "assets/characters/lily-c.webp",
+      "a": "assets/characters/lily-a.webp",
+      "o": "assets/characters/lily-o.webp",
+      "s": "assets/characters/lily-s.webp"
+    },
+    "meme": {
+      "n": "assets/characters/meme-n.webp",
+      "h": "assets/characters/meme-h.webp",
+      "c": "assets/characters/meme-c.webp",
+      "a": "assets/characters/meme-a.webp",
+      "o": "assets/characters/meme-o.webp",
+      "z": "assets/characters/meme-z.webp"
+    },
+    "yoru": {
+      "n": "assets/characters/yoru-n.webp",
+      "h": "assets/characters/yoru-h.webp",
+      "c": "assets/characters/yoru-c.webp"
+    },
+    "baba": {
+      "h": "assets/characters/baba-h.webp",
+      "c": "assets/characters/baba-c.webp",
+      "a": "assets/characters/baba-a.webp",
+      "n": "assets/characters/baba-h.webp"
+    },
+    "knight": {
+      "n": "assets/characters/knight-n.webp",
+      "a": "assets/characters/knight-n.webp"
+    },
+    "ginger": {
+      "n": "assets/characters/ginger-n.webp",
+      "h": "assets/characters/ginger-h.webp",
+      "c": "assets/characters/ginger-c.webp",
+      "o": "assets/characters/ginger-n.webp"
+    },
+    "poem": {
+      "n": "assets/characters/poem-n.webp",
+      "h": "assets/characters/poem-h.webp",
+      "a": "assets/characters/poem-a.webp"
+    },
+    "kaban": {
+      "n": "assets/characters/kaban-n.webp",
+      "h": "assets/characters/kaban-h.webp",
+      "o": "assets/characters/kaban-o.webp"
+    },
+    "mashu_t": {
+      "n": "assets/characters/mashu_t-n.webp",
+      "h": "assets/characters/mashu_t-h.webp",
+      "c": "assets/characters/mashu_t-c.webp",
+      "a": "assets/characters/mashu_t-a.webp",
+      "o": "assets/characters/mashu_t-o.webp",
+      "s": "assets/characters/mashu_t-s.webp",
+      "z": "assets/characters/mashu_t-z.webp",
+      "x": "assets/characters/mashu_t-x.webp"
+    },
+    "pupu": {
+      "n": "assets/characters/pupu-n.webp",
+      "h": "assets/characters/pupu-h.webp",
+      "c": "assets/characters/pupu-c.webp",
+      "a": "assets/characters/pupu-a.webp",
+      "o": "assets/characters/pupu-o.webp",
+      "z": "assets/characters/pupu-z.webp"
+    },
+    "pico": {
+      "n": "assets/characters/pico-n.webp",
+      "h": "assets/characters/pico-h.webp",
+      "c": "assets/characters/pico-c.webp"
+    },
+    "poko": {
+      "o": "assets/characters/poko-o.webp",
+      "h": "assets/characters/poko-h.webp",
+      "c": "assets/characters/poko-c.webp",
+      "n": "assets/characters/poko-o.webp"
+    },
+    "kid": {
+      "n": "assets/characters/kid-n.webp",
+      "h": "assets/characters/kid-h.webp",
+      "o": "assets/characters/kid-o.webp"
+    },
+    "vil": {
+      "n": "assets/characters/vil-n.webp",
+      "h": "assets/characters/vil-h.webp",
+      "c": "assets/characters/vil-c.webp"
+    },
+    "cookie": {
+      "n": "assets/characters/cookie-n.webp",
+      "h": "assets/characters/cookie-h.webp",
+      "c": "assets/characters/cookie-c.webp"
+    },
+    "all": {
+      "n": "assets/characters/all-n.webp",
+      "h": "assets/characters/all-h.webp",
+      "s": "assets/characters/all-s.webp"
+    },
+    "rabbit": {
+      "n": "assets/characters/rabbit-n.webp",
+      "h": "assets/characters/rabbit-n.webp",
+      "a": "assets/characters/rabbit-n.webp"
+    },
+    "moon": {
+      "n": "assets/characters/moon-n.webp",
+      "h": "assets/characters/moon-n.webp"
+    }
+  },
+  "icons": {
+    "lou": {
+      "n": "assets/icons/lou-n.webp",
+      "h": "assets/icons/lou-h.webp",
+      "c": "assets/icons/lou-c.webp",
+      "a": "assets/icons/lou-a.webp",
+      "o": "assets/icons/lou-o.webp",
+      "s": "assets/icons/lou-s.webp",
+      "z": "assets/icons/lou-z.webp",
+      "x": "assets/icons/lou-x.webp"
+    },
+    "choco": {
+      "n": "assets/icons/choco-n.webp",
+      "h": "assets/icons/choco-h.webp",
+      "c": "assets/icons/choco-c.webp",
+      "a": "assets/icons/choco-a.webp",
+      "o": "assets/icons/choco-o.webp",
+      "s": "assets/icons/choco-s.webp",
+      "z": "assets/icons/choco-z.webp",
+      "x": "assets/icons/choco-x.webp"
+    },
+    "mashu": {
+      "n": "assets/icons/mashu-n.webp",
+      "h": "assets/icons/mashu-h.webp",
+      "c": "assets/icons/mashu-c.webp",
+      "a": "assets/icons/mashu-a.webp",
+      "o": "assets/icons/mashu-o.webp",
+      "s": "assets/icons/mashu-s.webp",
+      "z": "assets/icons/mashu-z.webp",
+      "x": "assets/icons/mashu-x.webp"
+    },
+    "mina": {
+      "n": "assets/icons/mina-n.webp",
+      "h": "assets/icons/mina-h.webp",
+      "c": "assets/icons/mina-c.webp",
+      "a": "assets/icons/mina-a.webp",
+      "o": "assets/icons/mina-o.webp",
+      "x": "assets/icons/mina-x.webp",
+      "s": "assets/icons/mina-s.webp"
+    },
+    "stella": {
+      "n": "assets/icons/stella-n.webp",
+      "h": "assets/icons/stella-h.webp",
+      "c": "assets/icons/stella-c.webp",
+      "a": "assets/icons/stella-a.webp",
+      "o": "assets/icons/stella-o.webp",
+      "z": "assets/icons/stella-z.webp"
+    },
+    "lily": {
+      "n": "assets/icons/lily-n.webp",
+      "h": "assets/icons/lily-h.webp",
+      "c": "assets/icons/lily-c.webp",
+      "a": "assets/icons/lily-a.webp",
+      "o": "assets/icons/lily-o.webp",
+      "s": "assets/icons/lily-s.webp"
+    },
+    "meme": {
+      "n": "assets/icons/meme-n.webp",
+      "h": "assets/icons/meme-h.webp",
+      "c": "assets/icons/meme-c.webp",
+      "a": "assets/icons/meme-a.webp",
+      "o": "assets/icons/meme-o.webp",
+      "z": "assets/icons/meme-z.webp"
+    },
+    "yoru": {
+      "n": "assets/icons/yoru-n.webp",
+      "h": "assets/icons/yoru-h.webp",
+      "c": "assets/icons/yoru-c.webp"
+    },
+    "baba": {
+      "h": "assets/icons/baba-h.webp",
+      "c": "assets/icons/baba-c.webp",
+      "a": "assets/icons/baba-a.webp",
+      "n": "assets/icons/baba-h.webp"
+    },
+    "knight": {
+      "n": "assets/icons/knight-n.webp",
+      "a": "assets/icons/knight-n.webp"
+    },
+    "ginger": {
+      "n": "assets/icons/ginger-n.webp",
+      "h": "assets/icons/ginger-h.webp",
+      "c": "assets/icons/ginger-c.webp",
+      "o": "assets/icons/ginger-n.webp"
+    },
+    "poem": {
+      "n": "assets/icons/poem-n.webp",
+      "h": "assets/icons/poem-h.webp",
+      "a": "assets/icons/poem-a.webp"
+    },
+    "kaban": {
+      "n": "assets/icons/kaban-n.webp",
+      "h": "assets/icons/kaban-h.webp",
+      "o": "assets/icons/kaban-o.webp"
+    },
+    "mashu_t": {
+      "n": "assets/icons/mashu_t-n.webp",
+      "h": "assets/icons/mashu_t-h.webp",
+      "c": "assets/icons/mashu_t-c.webp",
+      "a": "assets/icons/mashu_t-a.webp",
+      "o": "assets/icons/mashu_t-o.webp",
+      "s": "assets/icons/mashu_t-s.webp",
+      "z": "assets/icons/mashu_t-z.webp",
+      "x": "assets/icons/mashu_t-x.webp"
+    },
+    "pupu": {
+      "n": "assets/icons/pupu-n.webp",
+      "h": "assets/icons/pupu-h.webp",
+      "c": "assets/icons/pupu-c.webp",
+      "a": "assets/icons/pupu-a.webp",
+      "o": "assets/icons/pupu-o.webp",
+      "z": "assets/icons/pupu-z.webp"
+    },
+    "pico": {
+      "n": "assets/icons/pico-n.webp",
+      "h": "assets/icons/pico-h.webp",
+      "c": "assets/icons/pico-c.webp"
+    },
+    "poko": {
+      "o": "assets/icons/poko-o.webp",
+      "h": "assets/icons/poko-h.webp",
+      "c": "assets/icons/poko-c.webp",
+      "n": "assets/icons/poko-o.webp"
+    },
+    "kid": {
+      "n": "assets/icons/kid-n.webp",
+      "h": "assets/icons/kid-h.webp",
+      "o": "assets/icons/kid-o.webp"
+    },
+    "vil": {
+      "n": "assets/icons/vil-n.webp",
+      "h": "assets/icons/vil-h.webp",
+      "c": "assets/icons/vil-c.webp"
+    },
+    "cookie": {
+      "n": "assets/icons/cookie-n.webp",
+      "h": "assets/icons/cookie-h.webp",
+      "c": "assets/icons/cookie-c.webp"
+    },
+    "all": {
+      "n": "assets/icons/all-n.webp",
+      "h": "assets/icons/all-h.webp",
+      "s": "assets/icons/all-s.webp"
+    },
+    "rabbit": {
+      "n": "assets/icons/rabbit-n.webp",
+      "h": "assets/icons/rabbit-n.webp",
+      "a": "assets/icons/rabbit-n.webp"
+    },
+    "moon": {
+      "n": "assets/icons/moon-n.webp",
+      "h": "assets/icons/moon-n.webp"
+    }
+  },
+  "enemies": {
+    "gumin": "assets/enemies/gumin.webp",
+    "matango": "assets/enemies/matango.webp",
+    "moth": "assets/enemies/moth.webp",
+    "bird": "assets/enemies/bird.webp",
+    "lolly": "assets/enemies/lolly.webp",
+    "bear": "assets/enemies/bear.webp",
+    "wghost": "assets/enemies/wghost.webp",
+    "clione": "assets/enemies/clione.webp",
+    "fog": "assets/enemies/fog.webp",
+    "icicle": "assets/enemies/icicle.webp",
+    "sslime": "assets/enemies/sslime.webp",
+    "mbird": "assets/enemies/mbird.webp",
+    "soldier": "assets/enemies/soldier.webp",
+    "rabbit": "assets/enemies/rabbit.webp",
+    "golem": "assets/enemies/golem.webp",
+    "swan": "assets/enemies/swan.webp",
+    "guardian": "assets/enemies/guardian.webp",
+    "shadow": "assets/enemies/shadow.webp",
+    "hollow1": "assets/enemies/hollow1.webp",
+    "hollow2": "assets/enemies/hollow2.webp"
+  },
+  "backgrounds": {
+    "village_day": "assets/backgrounds/village_day.webp",
+    "village_night": "assets/backgrounds/village_night.webp",
+    "village_crack": "assets/backgrounds/village_crack.webp",
+    "title": "assets/backgrounds/title.webp",
+    "forest": "assets/backgrounds/forest.webp",
+    "forest_deep": "assets/backgrounds/forest_deep.webp",
+    "candy": "assets/backgrounds/candy.webp",
+    "tower": "assets/backgrounds/tower.webp",
+    "hill": "assets/backgrounds/hill.webp",
+    "stairs": "assets/backgrounds/stairs.webp",
+    "moon": "assets/backgrounds/moon.webp",
+    "throne": "assets/backgrounds/throne.webp",
+    "swamp": "assets/backgrounds/swamp.webp",
+    "lake": "assets/backgrounds/lake.webp",
+    "sepia": "assets/backgrounds/sepia.webp",
+    "map": "assets/backgrounds/map.webp",
+    "throne_dark": "assets/backgrounds/throne_dark.webp",
+    "void": "assets/backgrounds/void.webp"
+  },
+  "sources": [
+    {
+      "id": "lou",
+      "file": "assets/reference/lou.webp",
+      "sha256": "27718e9e77436699dfc10725fd0adbd6c882aa3f22e819784da95176da848d5d",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "lou",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "lou",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "lou",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "lou",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "lou",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "lou",
+          "expression": "s",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "choco",
+      "file": "assets/reference/choco.webp",
+      "sha256": "db8ea667d49d15d632d5ecf2a7018d02e0883ccc9784c4c55cc21d1dbe3e0a51",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "choco",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "choco",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "choco",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "choco",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "choco",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "choco",
+          "expression": "s",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "mashu",
+      "file": "assets/reference/mashu.webp",
+      "sha256": "1c95c724b5ffa6cf7f62041ed347e450c90f38d28dc2e0af25aba9f0fe74a753",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "mashu",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "mashu",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "mashu",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "mashu",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "mashu",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "mashu",
+          "expression": "s",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "mina",
+      "file": "assets/reference/mina.webp",
+      "sha256": "29890c23030f12d50573075ef67b350ffb43301296bd94006bbd967699aaae41",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "mina",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "mina",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "mina",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "mina",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "mina",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "mina",
+          "expression": "x",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "stella",
+      "file": "assets/reference/stella.webp",
+      "sha256": "a64c0ff808ecb23823a3076cfd9c3f6b03ffcc63c1f3293bd79ce6c05aefd372",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "stella",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "stella",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "stella",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "stella",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "stella",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "stella",
+          "expression": "z",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "lily",
+      "file": "assets/reference/lily.webp",
+      "sha256": "e7ae31e70a24d4b26f07f216ce4b5ce419bf54eff5b56b47e7b99a7e91fa20f6",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "lily",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "lily",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "lily",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "lily",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "lily",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "lily",
+          "expression": "s",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "meme",
+      "file": "assets/reference/meme.webp",
+      "sha256": "66246174ccb36f23fd6febbb0b8341d3978c432aab27c2f353b2b92d7892c74c",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "meme",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "meme",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "meme",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "meme",
+          "expression": "a",
+          "index": 3
+        },
+        {
+          "id": "meme",
+          "expression": "o",
+          "index": 4
+        },
+        {
+          "id": "meme",
+          "expression": "z",
+          "index": 5
+        }
+      ],
+      "face": {
+        "left": 24,
+        "top": 20,
+        "width": 336,
+        "height": 330
+      }
+    },
+    {
+      "id": "support_magic",
+      "file": "assets/reference/support_magic.webp",
+      "sha256": "f6e1b58d747670a5e93a8f0817a4c90f71e7e7c3412df210a8bc3b89df72b439",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 3,
+      "cells": [
+        {
+          "id": "yoru",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "yoru",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "yoru",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "baba",
+          "expression": "h",
+          "index": 3
+        },
+        {
+          "id": "baba",
+          "expression": "c",
+          "index": 4
+        },
+        {
+          "id": "baba",
+          "expression": "a",
+          "index": 5
+        },
+        {
+          "id": "knight",
+          "expression": "n",
+          "index": 6
+        }
+      ],
+      "rowCuts": [
+        0,
+        512,
+        980,
+        1536
+      ]
+    },
+    {
+      "id": "support_town",
+      "file": "assets/reference/support_town.webp",
+      "sha256": "09e11fda28e04268470b9572b8107dc02bd5f5f9c60d9700ca40ca179046eb6b",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 3,
+      "cells": [
+        {
+          "id": "ginger",
+          "expression": "n",
+          "index": 0
+        },
+        {
+          "id": "ginger",
+          "expression": "h",
+          "index": 1
+        },
+        {
+          "id": "ginger",
+          "expression": "c",
+          "index": 2
+        },
+        {
+          "id": "poem",
+          "expression": "n",
+          "index": 3
+        },
+        {
+          "id": "poem",
+          "expression": "h",
+          "index": 4
+        },
+        {
+          "id": "poem",
+          "expression": "a",
+          "index": 5
+        },
+        {
+          "id": "kaban",
+          "expression": "n",
+          "index": 6,
+          "face": {
+            "left": 8,
+            "top": 90,
+            "width": 368,
+            "height": 340
+          }
+        },
+        {
+          "id": "kaban",
+          "expression": "h",
+          "index": 7,
+          "face": {
+            "left": 8,
+            "top": 90,
+            "width": 368,
+            "height": 340
+          }
+        },
+        {
+          "id": "kaban",
+          "expression": "o",
+          "index": 8,
+          "face": {
+            "left": 8,
+            "top": 90,
+            "width": 368,
+            "height": 340
+          }
+        }
+      ],
+      "rowCuts": [
+        0,
+        518,
+        1090,
+        1536
+      ]
+    },
+    {
+      "id": "bg_village",
+      "file": "assets/reference/bg_village.webp",
+      "sha256": "820b25fb538778d729311de7859e5d4f531cde77061073f8feafb34fd443bdbd",
+      "kind": "backgrounds",
+      "columns": 2,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "village_day",
+          "index": 0
+        },
+        {
+          "id": "village_night",
+          "index": 1
+        },
+        {
+          "id": "village_crack",
+          "index": 2
+        },
+        {
+          "id": "title",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "bg_journey",
+      "file": "assets/reference/bg_journey.webp",
+      "sha256": "b836d96512ba58c96aff03a054c3af6d908b87b68e589ec4e18e29619077938b",
+      "kind": "backgrounds",
+      "columns": 2,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "forest",
+          "index": 0
+        },
+        {
+          "id": "forest_deep",
+          "index": 1
+        },
+        {
+          "id": "candy",
+          "index": 2
+        },
+        {
+          "id": "tower",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "bg_moon",
+      "file": "assets/reference/bg_moon.webp",
+      "sha256": "ff3158c35693b1a52e348a04b77515b27441d6cfa0b3697bf20d8037c1d2e579",
+      "kind": "backgrounds",
+      "columns": 2,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "hill",
+          "index": 0
+        },
+        {
+          "id": "stairs",
+          "index": 1
+        },
+        {
+          "id": "moon",
+          "index": 2
+        },
+        {
+          "id": "throne",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "mashu_t",
+      "file": "assets/reference/mashu_t.webp",
+      "sha256": "ba3f6868b5b1ff65b469599c3183cfd5c96ee91429e627c6204b3c308ad6e480",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "mashu_t",
+          "index": 0,
+          "expression": "n"
+        },
+        {
+          "id": "mashu_t",
+          "index": 1,
+          "expression": "h"
+        },
+        {
+          "id": "mashu_t",
+          "index": 2,
+          "expression": "c"
+        },
+        {
+          "id": "mashu_t",
+          "index": 3,
+          "expression": "a"
+        },
+        {
+          "id": "mashu_t",
+          "index": 4,
+          "expression": "o"
+        },
+        {
+          "id": "mashu_t",
+          "index": 5,
+          "expression": "s"
+        }
+      ]
+    },
+    {
+      "id": "pupu",
+      "file": "assets/reference/pupu.webp",
+      "sha256": "8067371130f4f48d34b519e82569f46afec37e562cab1bbfda5253c4d6c4c64c",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "pupu",
+          "index": 0,
+          "expression": "n"
+        },
+        {
+          "id": "pupu",
+          "index": 1,
+          "expression": "h"
+        },
+        {
+          "id": "pupu",
+          "index": 2,
+          "expression": "c"
+        },
+        {
+          "id": "pupu",
+          "index": 3,
+          "expression": "a"
+        },
+        {
+          "id": "pupu",
+          "index": 4,
+          "expression": "o"
+        },
+        {
+          "id": "pupu",
+          "index": 5,
+          "expression": "z"
+        }
+      ]
+    },
+    {
+      "id": "support_children",
+      "file": "assets/reference/support_children.webp",
+      "sha256": "b576a0d4382e24fcef128783c943e44d6d670c9636bfea5f7bb966b531eec723",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 3,
+      "cells": [
+        {
+          "id": "pico",
+          "index": 0,
+          "expression": "n"
+        },
+        {
+          "id": "pico",
+          "index": 1,
+          "expression": "h"
+        },
+        {
+          "id": "pico",
+          "index": 2,
+          "expression": "c"
+        },
+        {
+          "id": "poko",
+          "index": 3,
+          "expression": "o"
+        },
+        {
+          "id": "poko",
+          "index": 4,
+          "expression": "h"
+        },
+        {
+          "id": "poko",
+          "index": 5,
+          "expression": "c"
+        },
+        {
+          "id": "kid",
+          "index": 6,
+          "expression": "n"
+        },
+        {
+          "id": "kid",
+          "index": 7,
+          "expression": "h"
+        },
+        {
+          "id": "kid",
+          "index": 8,
+          "expression": "o"
+        }
+      ],
+      "rowCuts": [
+        0,
+        510,
+        990,
+        1536
+      ]
+    },
+    {
+      "id": "support_village",
+      "file": "assets/reference/support_village.webp",
+      "sha256": "e7f17b538b85333f6288afacba2ab1cc43977b8924711177cea99caf51e706ff",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 3,
+      "cells": [
+        {
+          "id": "vil",
+          "index": 0,
+          "expression": "n"
+        },
+        {
+          "id": "vil",
+          "index": 1,
+          "expression": "h"
+        },
+        {
+          "id": "vil",
+          "index": 2,
+          "expression": "c"
+        },
+        {
+          "id": "cookie",
+          "index": 3,
+          "expression": "n"
+        },
+        {
+          "id": "cookie",
+          "index": 4,
+          "expression": "h"
+        },
+        {
+          "id": "cookie",
+          "index": 5,
+          "expression": "c"
+        },
+        {
+          "id": "all",
+          "index": 6,
+          "expression": "n"
+        },
+        {
+          "id": "all",
+          "index": 7,
+          "expression": "h"
+        },
+        {
+          "id": "all",
+          "index": 8,
+          "expression": "s"
+        }
+      ],
+      "rowCuts": [
+        0,
+        562,
+        1030,
+        1536
+      ]
+    },
+    {
+      "id": "status_party",
+      "file": "assets/reference/status_party.webp",
+      "sha256": "2291770154a8624925d1510ceb278ccb1e3a26c72cf74bdaf6f485850d8aac80",
+      "kind": "characters",
+      "columns": 2,
+      "rows": 3,
+      "cells": [
+        {
+          "id": "lou",
+          "index": 0,
+          "expression": "z"
+        },
+        {
+          "id": "lou",
+          "index": 1,
+          "expression": "x"
+        },
+        {
+          "id": "choco",
+          "index": 2,
+          "expression": "z"
+        },
+        {
+          "id": "choco",
+          "index": 3,
+          "expression": "x"
+        },
+        {
+          "id": "mashu",
+          "index": 4,
+          "expression": "z"
+        },
+        {
+          "id": "mashu",
+          "index": 5,
+          "expression": "x"
+        }
+      ]
+    },
+    {
+      "id": "toast_status",
+      "file": "assets/reference/toast_status.webp",
+      "sha256": "ff2b48b360df11433cdc5c4b515dd7b8719be73e99a7ab6e6cfd537b6b822263",
+      "kind": "characters",
+      "columns": 2,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "mashu_t",
+          "index": 0,
+          "expression": "z"
+        },
+        {
+          "id": "mashu_t",
+          "index": 1,
+          "expression": "x"
+        }
+      ]
+    },
+    {
+      "id": "mina_sing",
+      "file": "assets/reference/mina_sing.webp",
+      "sha256": "5e0c6d1d4897912d45059a362b7f2d27cab84a762c3819823a6bfcf51ebd8522",
+      "kind": "characters",
+      "columns": 1,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "mina",
+          "index": 0,
+          "expression": "s"
+        }
+      ]
+    },
+    {
+      "id": "enemies_forest",
+      "file": "assets/reference/enemies_forest.webp",
+      "sha256": "648599cc3725c27cdf179cee78fa330fa0bdc8c5efcbb1d29b8157b7221a56f8",
+      "kind": "enemies",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "gumin",
+          "index": 0
+        },
+        {
+          "id": "matango",
+          "index": 1
+        },
+        {
+          "id": "moth",
+          "index": 2
+        },
+        {
+          "id": "bird",
+          "index": 3,
+          "region": {
+            "left": 0,
+            "top": 512,
+            "width": 518,
+            "height": 512
+          }
+        },
+        {
+          "id": "lolly",
+          "index": 4,
+          "region": {
+            "left": 518,
+            "top": 512,
+            "width": 506,
+            "height": 512
+          }
+        },
+        {
+          "id": "bear",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "enemies_sugar",
+      "file": "assets/reference/enemies_sugar.webp",
+      "sha256": "9057b60bde1c326a379015527b5621d46a1f0b816ebe5d90347c47def4bcf8fb",
+      "kind": "enemies",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "wghost",
+          "index": 0,
+          "region": {
+            "left": 0,
+            "top": 0,
+            "width": 512,
+            "height": 536
+          }
+        },
+        {
+          "id": "clione",
+          "index": 3,
+          "region": {
+            "left": 0,
+            "top": 536,
+            "width": 500,
+            "height": 488
+          }
+        },
+        {
+          "id": "fog",
+          "index": 4,
+          "region": {
+            "left": 500,
+            "top": 536,
+            "width": 505,
+            "height": 488
+          }
+        },
+        {
+          "id": "icicle",
+          "index": 5,
+          "region": {
+            "left": 1008,
+            "top": 536,
+            "width": 528,
+            "height": 488
+          }
+        }
+      ]
+    },
+    {
+      "id": "enemies_stars",
+      "file": "assets/reference/enemies_stars.webp",
+      "sha256": "85c212157b50abd326f63af2d340d0aa04504cf14209eb81a863bf9b57308927",
+      "kind": "enemies",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "sslime",
+          "index": 1,
+          "region": {
+            "left": 634,
+            "top": 0,
+            "width": 416,
+            "height": 523
+          }
+        },
+        {
+          "id": "mbird",
+          "index": 2,
+          "region": {
+            "left": 1060,
+            "top": 0,
+            "width": 476,
+            "height": 523
+          }
+        },
+        {
+          "id": "soldier",
+          "index": 3,
+          "region": {
+            "left": 0,
+            "top": 524,
+            "width": 476,
+            "height": 500
+          }
+        },
+        {
+          "id": "rabbit",
+          "index": 5,
+          "region": {
+            "left": 1090,
+            "top": 524,
+            "width": 446,
+            "height": 500
+          }
+        }
+      ]
+    },
+    {
+      "id": "rabbit",
+      "file": "assets/reference/rabbit.webp",
+      "sha256": "85c212157b50abd326f63af2d340d0aa04504cf14209eb81a863bf9b57308927",
+      "kind": "characters",
+      "columns": 3,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "rabbit",
+          "index": 5,
+          "expression": "n",
+          "region": {
+            "left": 1090,
+            "top": 524,
+            "width": 446,
+            "height": 500
+          }
+        }
+      ]
+    },
+    {
+      "id": "golem",
+      "file": "assets/reference/golem.webp",
+      "sha256": "c236e1c2d48211f53cec439932d0a1d7c3ef78eaba7fecc6a419b6516e60f767",
+      "kind": "enemies",
+      "columns": 1,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "golem",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": "swan",
+      "file": "assets/reference/swan.webp",
+      "sha256": "642c25d2eb11ab0ac0d95894a9555dff27cb7e0319a44481f591352267122d85",
+      "kind": "enemies",
+      "columns": 1,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "swan",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": "guardian",
+      "file": "assets/reference/guardian.webp",
+      "sha256": "a43ee703bca73cbed0ce1ee45effb5aab03530d2a74a77eb0fdaae17e68a2ff4",
+      "kind": "enemies",
+      "columns": 1,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "guardian",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": "enemies_dark",
+      "file": "assets/reference/enemies_dark.webp",
+      "sha256": "d0d036d44599f1a25504927f26e215d02af44d24a1a75456dfe5321f9bf9e28d",
+      "kind": "enemies",
+      "columns": 2,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "shadow",
+          "index": 0,
+          "region": {
+            "left": 0,
+            "top": 0,
+            "width": 620,
+            "height": 640
+          }
+        },
+        {
+          "id": "hollow1",
+          "index": 1,
+          "region": {
+            "left": 620,
+            "top": 0,
+            "width": 610,
+            "height": 655
+          }
+        }
+      ]
+    },
+    {
+      "id": "moon_final",
+      "file": "assets/reference/moon_final.webp",
+      "sha256": "ba7925a95bc9c7f7c092884f198d00b0d503fd9f234414941e4a706d4a83a34c",
+      "kind": "characters",
+      "columns": 1,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "moon",
+          "index": 0,
+          "expression": "n"
+        }
+      ]
+    },
+    {
+      "id": "bg_memory",
+      "file": "assets/reference/bg_memory.webp",
+      "sha256": "eba4023fc2f538f8dd9b0a6266fe38d3a9c12c1f5ee1d146cd737ee180cdbed9",
+      "kind": "backgrounds",
+      "columns": 2,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "swamp",
+          "index": 0
+        },
+        {
+          "id": "lake",
+          "index": 1
+        },
+        {
+          "id": "sepia",
+          "index": 2
+        },
+        {
+          "id": "map",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "bg_dark",
+      "file": "assets/reference/bg_dark.webp",
+      "sha256": "b7e6740a86ff461dc63ce74eb492ccb7cf51046c4e1cda690089b6aac3f67278",
+      "kind": "backgrounds",
+      "columns": 1,
+      "rows": 2,
+      "cells": [
+        {
+          "id": "throne_dark",
+          "index": 0
+        },
+        {
+          "id": "void",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "id": "hollow2_final",
+      "file": "assets/reference/hollow2_final.webp",
+      "sha256": "014a1bfc6752294cfd17b0260c034a03ce43210c393e8e986a730c95ecc34497",
+      "kind": "enemies",
+      "columns": 1,
+      "rows": 1,
+      "cells": [
+        {
+          "id": "hollow2",
+          "index": 0
+        }
+      ]
+    }
+  ]
+}

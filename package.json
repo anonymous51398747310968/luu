@@ -1,0 +1,12 @@
+{
+  "name": "luu-moon-lullaby",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/game.test.cjs",
+    "art:build": "node tools/export-art.cjs && node tools/sync-art.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1",
+    "sharp": "0.35.4"
+  }
+}
